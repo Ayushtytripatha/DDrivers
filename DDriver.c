@@ -8,7 +8,7 @@
 #include<linux/slab.h>
 #include<linux/uaccess.h>
 
-
+#define memorysize 1024 
 
 dev_t dev = 0;
 
